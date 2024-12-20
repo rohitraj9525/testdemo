@@ -1,0 +1,151 @@
+YouTube Video:-
+
+1). All java DSA https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=HGD4O76W3iu4xZnk
+
+2). Graph https://youtu.be/59fUtYYz7ZU?si=vdo7hnRXJPOJkUGy
+
+3). Dynamic Programming https://youtu.be/oFkDldu3C_4?si=lc1p6D0FFx_0pT8T
+
+4). Apna College https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop&si=OFVL7sth6LE-Z4C4
+
+5). Leetcode full profile:- https://leetcode.com/u/rohit_raj9525/
+
+
+Leetcode Problem:-
+
+
+Arrays(0)
+Two Sum  done
+Best Time to Buy and Sell Stock  done
+Product of Array Except Self  done
+Maximum Subarray  done
+Container With Most Water done
+3Sum done
+
+Two Pointer(0)
+Two Sum - (HashMap approach, but can be solved with two pointers for sorted input)  done
+Valid Palindrome - Use two pointers to check characters from both ends.   done
+Reverse String - Use two pointers to swap characters at both ends.   done
+Move Zeroes - Use two pointers to place zeros at the end.   
+Squares of a Sorted Array - Merge squared values from both ends of a sorted array.
+Medium
+Three Sum - Use two pointers to find triplets that sum to zero.
+Container With Most Water - Use two pointers to maximize the water container size.
+3Sum Closest - Similar to 3Sum but aims for the closest target sum.
+Subarray Product Less Than K - Two pointers for finding products of contiguous subarrays.
+Remove Nth Node From End of List - Two-pointer technique to find the nth node from the end.
+Hard
+Trapping Rain Water - Two pointers from each end to calculate trapped water.
+Longest Substring with At Most Two Distinct Characters - Sliding window with two pointers.
+Minimum Window Substring - Two-pointer approach for the smallest window containing all characters.
+Palindrome Pairs - Find pairs of indices whose concatenated string forms a palindrome.
+Longest Substring with At Most K Distinct Characters - General sliding window problem with two pointers.
+
+1. Strings
+Longest Substring Without Repeating Characters
+Valid Parentheses
+Group Anagrams
+Longest Palindromic Substring
+Implement strStr()
+
+2. Linked Lists
+Common Topics: Reverse a Linked List, Fast and Slow Pointer, Merge Two Lists
+Top Questions:
+Reverse Linked List
+Merge Two Sorted Lists
+Linked List Cycle
+Add Two Numbers
+Remove N-th Node from End of List
+Palindrome Linked List
+
+3. Binary Trees and Binary Search Trees
+Common Topics: DFS, BFS, Inorder/Preorder/Postorder Traversal, Balanced Trees
+Top Questions:
+Binary Tree Inorder Traversal
+Validate Binary Search Tree
+Lowest Common Ancestor of a Binary Search Tree
+Symmetric Tree
+Binary Tree Maximum Path Sum
+Invert Binary Tree
+
+4. Dynamic Programming
+Common Topics: 0/1 Knapsack, Memoization, Tabulation
+Top Questions:
+Climbing Stairs
+Longest Increasing Subsequence
+Coin Change
+House Robber
+Longest Common Subsequence
+Word Break
+
+5. Graphs
+Common Topics: BFS, DFS, Dijkstra’s Algorithm, Union Find, Topological Sort
+Top Questions:
+Clone Graph
+Number of Islands
+Course Schedule
+Pacific Atlantic Water Flow
+Graph Valid Tree
+Word Ladder
+
+6. Binary Search
+Common Topics: Searching in Rotated Array, Efficient Searching
+Top Questions:
+Binary Search
+Find Minimum in Rotated Sorted Array
+Search in Rotated Sorted Array
+Median of Two Sorted Arrays
+Find Peak Element
+
+7. Greedy Algorithms
+Common Topics: Activity Selection, Interval Problems, Greedy Choice Property
+Top Questions:
+Jump Game
+Partition Labels
+Gas Station
+Candy
+Task Scheduler
+
+8. Backtracking
+Common Topics: Subsets, Permutations, Combinations
+Top Questions:
+Subsets
+Permutations
+Combination Sum
+Sudoku Solver
+N-Queens
+
+9. Heaps/Priority Queues
+Common Topics: Kth Largest/Smallest Element, Heap Sort
+Top Questions:
+Merge k Sorted Lists
+Top K Frequent Elements
+Find Median from Data Stream
+Kth Largest Element in an Array
+Task Scheduler
+
+10. Tries
+Common Topics: Word Search, Prefix Matching
+Top Questions:
+Implement Trie (Prefix Tree)
+Word Search II
+Add and Search Word
+Design Search Autocomplete System
+
+11. Stacks & Queues
+Common Topics: Monotonic Stack, Stack Operations, Queue Operations
+Top Questions:
+Valid Parentheses
+Largest Rectangle in Histogram
+Daily Temperatures
+Min Stack
+Sliding Window Maximum
+
+12. Bit Manipulation
+Common Topics: XOR, Bit Shifts, Masking
+Top Questions:
+Single Number
+Counting Bits
+Number of 1 Bits
+Reverse Bits
+Missing Number
